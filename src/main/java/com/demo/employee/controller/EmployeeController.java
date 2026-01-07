@@ -22,4 +22,7 @@ public class EmployeeController {
                 "department", "IT"	
         );
     }
+    public void test() {
+    	
+    }
 }
