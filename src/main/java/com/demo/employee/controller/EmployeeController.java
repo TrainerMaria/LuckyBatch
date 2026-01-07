@@ -22,7 +22,7 @@ public class EmployeeController {
                 "department", "IT"	
         );
     }
-    public void test() {
+    public static void test1() {
     	
     }
 }
